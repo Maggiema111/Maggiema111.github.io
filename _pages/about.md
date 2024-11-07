@@ -14,7 +14,6 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
-Yingying Ma
 High School Student at Beijing Haidian Kaiwen Academy
 
 Hello everyone! I am Yingying Ma, a high-achieving high school student with a passion for science and research. Currently, I am attending Beijing Haidian Kaiwen Academy.
