@@ -1,3 +1,4 @@
+<!--1 acc -->
 ---
 ---
 <!-- _layouts/bib.html -->
@@ -155,6 +156,13 @@
             <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
             {%- else -%}
             <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            {%- endif %}
+          {%- endif %}
+          {%- if entry.acc %}
+            {% if entry.acc contains '://' -%}
+            <a href="{{ entry.acc }}" class="btn btn-sm z-depth-0" role="button">Acceptance</a>
+            {%- else -%}
+            <a href="{{ entry.acc | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Acceptance</a>
             {%- endif %}
           {%- endif %}
           {%- if entry.supp %}
