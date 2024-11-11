@@ -8,7 +8,8 @@ nav_order: 2
 redirect_from: 
   - /chrono-space.html 
 ---
-<a href='https://youtu.be/Dxq6gJi94us'>my ChronoSpace video</a>
+<iframe width="560" height="315" src="https://youtu.be/Dxq6gJi94us" frameborder="0" allowfullscreen></iframe>
+
 
 
 
