@@ -14,7 +14,7 @@ redirect_from:
   <figure> 
     <picture> 
   
-      <img src="/al-folio/assets/img/1.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
+      <img src="/assets/img/1.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
       </picture> 
       </figure> 
       </div>
@@ -23,7 +23,7 @@ redirect_from:
   <figure> 
     <picture> 
   
-      <img src="/al-folio/assets/img/2.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
+      <img src="/assets/img/2.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
       </picture> 
       </figure> 
       </div>
@@ -31,7 +31,7 @@ redirect_from:
   <figure> 
     <picture> 
   
-      <img src="/al-folio/assets/img/3.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
+      <img src="/assets/img/3.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
       </picture> 
       </figure> 
       </div>
