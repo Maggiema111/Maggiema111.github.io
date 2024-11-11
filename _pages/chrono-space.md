@@ -14,8 +14,9 @@ redirect_from:
 <div class="col-sm mt-3 mt-md-0"> 
   <figure> 
     <picture> 
-  
+      <a href='/assets/pdf/p1.pdf'>
       <img src="/assets/img/1.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
+      </a>
       </picture> 
       </figure> 
       </div>
