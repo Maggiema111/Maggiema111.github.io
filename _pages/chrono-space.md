@@ -15,7 +15,7 @@ redirect_from:
   <figure> 
     <picture> 
       <a href='/assets/pdf/p1.pdf' target="_blank">
-      <img src="/assets/img/1.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
+      <img src="/assets/img/1.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="" loading="eager" > 
       </a>
       </picture> 
       </figure> 
@@ -25,7 +25,7 @@ redirect_from:
   <figure> 
     <picture> 
    <a href='/assets/pdf/p2.pdf' target="_blank">
-      <img src="/assets/img/2.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
+      <img src="/assets/img/2.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="" loading="eager" > 
    </a>
       </picture> 
       </figure> 
@@ -34,7 +34,7 @@ redirect_from:
   <figure> 
     <picture> 
    <a href='/assets/pdf/p3.pdf' target="_blank">
-      <img src="/assets/img/3.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
+      <img src="/assets/img/3.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="" loading="eager" > 
    </a>
       </picture> 
       </figure> 
@@ -47,7 +47,7 @@ redirect_from:
   <figure> 
     <picture> 
    <a href='/assets/pdf/p4.pdf' target="_blank">
-      <img src="/assets/img/4.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
+      <img src="/assets/img/4.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="" loading="eager" > 
    </a>
       </picture> 
       </figure> 
@@ -57,7 +57,7 @@ redirect_from:
   <figure> 
     <picture> 
    <a href='/assets/pdf/p5.pdf' target="_blank">
-      <img src="/assets/img/5.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
+      <img src="/assets/img/5.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="" loading="eager" > 
    </a>
       </picture> 
       </figure> 
