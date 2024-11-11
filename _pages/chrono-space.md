@@ -14,7 +14,7 @@ redirect_from:
 <div class="col-sm mt-3 mt-md-0"> 
   <figure> 
     <picture> 
-      <a href='/assets/pdf/p1.pdf'>
+      <a href='/assets/pdf/p1.pdf' target="_blank">
       <img src="/assets/img/1.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
       </a>
       </picture> 
@@ -24,16 +24,18 @@ redirect_from:
  <div class="col-sm mt-3 mt-md-0"> 
   <figure> 
     <picture> 
-  
+   <a href='/assets/pdf/p2.pdf' target="_blank">
       <img src="/assets/img/2.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
+   </a>
       </picture> 
       </figure> 
       </div>
       <div class="col-sm mt-3 mt-md-0"> 
   <figure> 
     <picture> 
-  
+   <a href='/assets/pdf/p3.pdf' target="_blank">
       <img src="/assets/img/3.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
+   </a>
       </picture> 
       </figure> 
       </div>
@@ -44,8 +46,9 @@ redirect_from:
 <div class="col-sm mt-3 mt-md-0"> 
   <figure> 
     <picture> 
-  
+   <a href='/assets/pdf/p4.pdf' target="_blank">
       <img src="/assets/img/4.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
+   </a>
       </picture> 
       </figure> 
       </div>
@@ -53,8 +56,9 @@ redirect_from:
  <div class="col-sm mt-3 mt-md-0"> 
   <figure> 
     <picture> 
-  
+   <a href='/assets/pdf/p5.pdf' target="_blank">
       <img src="/assets/img/5.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
+   </a>
       </picture> 
       </figure> 
       </div>
@@ -63,7 +67,7 @@ redirect_from:
        </div>
 
       <div/>
-       <a href='https://drive.google.com/file/d/1Zfgnuo15_wDwldoxMEE3rAgjiO_11Len/view?usp=drivesdk'>Source Code</a>
+       <a href='https://drive.google.com/file/d/1Zfgnuo15_wDwldoxMEE3rAgjiO_11Len/view?usp=drivesdk' target="_blank">Source Code</a>
     </div>
 
 
