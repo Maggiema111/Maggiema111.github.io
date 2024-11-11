@@ -37,9 +37,29 @@ redirect_from:
       </div>
 
        </div>
-       <div class="repo p-2 text-center"> 
-       <a href="https://github.com/Maggiema111/ChronoSpace" rel="external nofollow noopener" target="_blank"/>
+
+       <div class="row">
+<div class="col-sm mt-3 mt-md-0"> 
+  <figure> 
+    <picture> 
+  
+      <img src="/assets/img/4.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
+      </picture> 
+      </figure> 
+      </div>
+      
+ <div class="col-sm mt-3 mt-md-0"> 
+  <figure> 
+    <picture> 
+  
+      <img src="/assets/img/5.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="example image" loading="eager" > 
+      </picture> 
+      </figure> 
+      </div>
+     
+
        </div>
+    
 
 
 
