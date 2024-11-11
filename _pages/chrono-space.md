@@ -40,9 +40,8 @@ redirect_from:
 
 
        <div class="repo p-2 text-center"> 
-       <a href="https://github.com/Maggiema111/ChronoSpace" rel="external nofollow noopener" target="_blank"> 
-       <img class="repo-img-light w-100" alt="alshedivat/al-folio" src="https://github-readme-stats.vercel.app/api/pin/?username=alshedivat&amp;repo=al-folio&amp;theme=default&amp;show_owner=false&amp;description_lines_count=2"> 
-       <img class="repo-img-dark w-100" alt="alshedivat/al-folio" src="https://github-readme-stats.vercel.app/api/pin/?username=alshedivat&amp;repo=al-folio&amp;theme=dark&amp;show_owner=false&amp;description_lines_count=2"> </a> 
+       <a href="https://github.com/Maggiema111/ChronoSpace" rel="external nofollow noopener" target="_blank"/> 
+       
        </div>
 
 
