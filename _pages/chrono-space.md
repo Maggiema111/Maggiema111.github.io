@@ -37,11 +37,8 @@ redirect_from:
       </div>
 
        </div>
-
-
        <div class="repo p-2 text-center"> 
-       <a href="https://github.com/Maggiema111/ChronoSpace" rel="external nofollow noopener" target="_blank"/> 
-       
+       <a href="https://github.com/Maggiema111/ChronoSpace" rel="external nofollow noopener" target="_blank"/>
        </div>
 
 
