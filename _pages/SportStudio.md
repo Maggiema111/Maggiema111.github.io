@@ -2,7 +2,7 @@
 layout: page
 permalink: /BeyondAcademics/
 title: Beyond Academics
-description: SportStudio
+description: Music and Sport
 nav: true
 nav_order: 4
 redirect_from: 
