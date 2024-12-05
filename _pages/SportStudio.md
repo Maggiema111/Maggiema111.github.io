@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /SportStudio/
-title: SportStudio
+permalink: /BeyondAcademics/
+title: Beyond Academics
 description: SportStudio
 nav: true
 nav_order: 4
