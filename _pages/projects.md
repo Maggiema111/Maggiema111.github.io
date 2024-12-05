@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projetcs/
-title: Yingying's ChronoSpace
+title: Projetcs
 description: Unearthing Time Narratives
 nav: true
 nav_order: 5
