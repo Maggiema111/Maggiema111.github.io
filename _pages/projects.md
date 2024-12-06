@@ -12,6 +12,6 @@ horizontal: false
 <!-- pages/projects.md -->
 <div class="projects">
 
-  {% include projects.html %}
+  {% include projects.liquid %}
 
 </div>
