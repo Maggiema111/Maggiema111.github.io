@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/2R5w4_TBlYU" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2R5w4_TBlYU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <a href='https://maggiema111.github.io/SportStudio/'>SportStudio</a>
     <a href='https://maggiema111.github.io/chrono-space/'>ChronoSpace</a>
 
